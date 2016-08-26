@@ -4,7 +4,6 @@
     "keywords": ["PHP","XCrud","Crud"],
     "type": "library",
     "license": "Xcrud License",
-    "version": "1.0.0",
     "authors": [
         {
             "name": "Saeed Farahani"
