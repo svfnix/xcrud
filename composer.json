@@ -1,10 +1,11 @@
 {
-    "name": "svfnix/Xcrud",
+    "name": "Svfnix/Xcrud",
     "description": "XCrud/Laravel - crud engine",
     "keywords": ["PHP","XCrud","Crud"],
     "homepage": "",
     "type": "library",
     "license": "Xcrud License",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Saeed Farahani"
