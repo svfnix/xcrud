@@ -1,5 +1,5 @@
 <?php
-namespace Svf\Xcrud\Facades;
+namespace Svfnix\Xcrud\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

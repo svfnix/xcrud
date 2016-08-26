@@ -1,4 +1,6 @@
 <?php
+namespace Svfnix\Xcrud\core;
+
 /**
  * Based on Security class by CodeIgniter
  * @author ExpressionEngine Dev Team
